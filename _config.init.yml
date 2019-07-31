@@ -65,8 +65,8 @@ dev:            false
 
 # Site name
 #
-# Default:      Almace Scaffolding
-name:           Almace Scaffolding
+# Default:      vega5b
+name:           vega5b
 
 # Site short name
 #
@@ -82,14 +82,14 @@ name:           Almace Scaffolding
 # - name_short: Sparanoid
 #
 # Default:      AMSF
-name_short:     AMSF
+name_short:     vega5b
 
 # Site description
 #
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    cloud ml made easy
 
 # Base URL
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            http://vega5b.io
 
 # Media assets URL
 #
